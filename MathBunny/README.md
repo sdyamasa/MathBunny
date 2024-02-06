@@ -1,11 +1,13 @@
-Math Game for Elementary School Students
+MathBunny: A Simple Math Game for Elementary School Students
+
+***
 
 DEVELOPERS: Sirena Salas, Jared Schneider, and Aidin Tavassoli
 
 PROGRAM DESCRIPTION:
 This application will be used to improve Math skills in first grade elementary school students by using an interactive GUI and game-like approach.
 
-PROGRAMING LANGUAGE:
+PROGRAMMING LANGUAGE:
 Python 3.7 - 3.8
 
 STANDARD IDE:
