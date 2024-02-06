@@ -1,9 +1,6 @@
 Math Game for Elementary School Students
 
-DEVELOPERS:
-Sirena Salas
-Jared Schneider
-Aidin Tavassoli
+DEVELOPERS: Sirena Salas, Jared Schneider, and Aidin Tavassoli
 
 PROGRAM DESCRIPTION:
 This application will be used to improve Math skills in first grade elementary school students by using an interactive GUI and game-like approach.
